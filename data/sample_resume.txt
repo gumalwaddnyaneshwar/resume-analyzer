@@ -1,0 +1,3 @@
+Experienced Python developer with strong knowledge of Machine Learning,
+Data Analysis, SQL, and NLP. Worked on fraud detection and churn prediction
+projects. Familiar with Pandas, NumPy, Scikit-learn, and Streamlit.
