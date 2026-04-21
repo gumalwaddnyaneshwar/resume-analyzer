@@ -69,7 +69,7 @@ resume-analyzer/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/resume-analyzer.git
+git clone https://github.com/gumalwaddnyaneshwar/resume-analyzer.git
 cd resume-analyzer
 
 
